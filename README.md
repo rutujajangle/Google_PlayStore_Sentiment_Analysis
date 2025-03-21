@@ -1,9 +1,3 @@
-# Google_PlayStore_Sentiment_Analysis
-This project leverages the BERT-base-uncased model to enhance sentiment classification of Google Play Store reviews. It incorporates fine-tuning, class balancing, and NLP preprocessing to improve accuracy and handle nuanced sentiments effectively.
-Here is a structured **README** file for your **BERT-based sentiment analysis project**, following the structure of the provided file:
-
----
-
 # **Sentiment Analysis of Google Play Store Reviews using BERT**
 
 ## **Overview**
