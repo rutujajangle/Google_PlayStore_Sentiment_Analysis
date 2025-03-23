@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+*.env
+
+# Google Colab
+*.ipynb
+
+# Python virtual environment
+*.egg-info/
+pip-wheel-metadata/
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.xls
+*.xlsx
+*.db
+data/
+datasets/
+*.log
+
+# Model artifacts
+*.pt
+*.pth
+*.bin
+*.h5
+*.ckpt
+*.onnx
+*.joblib
+models/
+checkpoints/
+runs/
+logs/
+
+# Transformers cache
+.cache/
+huggingface/
+~/.cache/huggingface/
+
+# Colab system files
+drive/MyDrive/__pycache__/
+drive/MyDrive/.ipynb_checkpoints/
+drive/MyDrive/*.csv
+drive/MyDrive/*.log
+drive/MyDrive/*.bin
+
+# Mac and Linux system files
+.DS_Store
+*.swp
+
+# Output and figures
+*.png
+*.jpg
+*.jpeg
+*.pdf
+outputs/
+visualizations/
+
+# PyTorch Lightning logs
+lightning_logs/
+
+# Weights and Biases
+wandb/
+wandb-debug.log
+wandb/latest-run
